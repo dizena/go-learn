@@ -10,7 +10,8 @@ func say1(name string) {
 	fmt.Println("人生苦短须尽欢,", name)
 }
 
-/**
+/*
+*
 变长的数组
 */
 func say3(names ...string) {
